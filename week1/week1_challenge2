@@ -1,0 +1,9 @@
+container = 'div.cds_type'
+
+title = 'dt.title'
+
+channel = 'dd.chn'
+
+play_count = 'span.hit'
+
+like_count = 'span.like'
